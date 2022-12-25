@@ -1,0 +1,15 @@
+/Users/pipiskop/Projects/pr777/pr777/bin/Debug/net6.0/pr777
+/Users/pipiskop/Projects/pr777/pr777/bin/Debug/net6.0/pr777.deps.json
+/Users/pipiskop/Projects/pr777/pr777/bin/Debug/net6.0/pr777.runtimeconfig.json
+/Users/pipiskop/Projects/pr777/pr777/bin/Debug/net6.0/pr777.dll
+/Users/pipiskop/Projects/pr777/pr777/bin/Debug/net6.0/pr777.pdb
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/pr777.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/pr777.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/pr777.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/pr777.AssemblyInfo.cs
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/pr777.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/pr777.dll
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/refint/pr777.dll
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/pr777.pdb
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/pr777.genruntimeconfig.cache
+/Users/pipiskop/Projects/pr777/pr777/obj/Debug/net6.0/ref/pr777.dll
